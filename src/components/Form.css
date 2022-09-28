@@ -1,0 +1,14 @@
+.form{
+    width: 65vw;
+    min-height: 970px;
+    height: 140vh;
+    background: #12453f;
+   display: flex;
+   flex-direction: column;
+    
+}
+@media all and (max-width: 800px) {
+    .form{
+        width: 100vw;
+    }
+}
